@@ -35,3 +35,15 @@ class Role < ActiveRecord::Base
         end 
     end 
 end
+
+
+#1. bundle
+#2. draw out relationships 
+#3. create migrations, fill out columns
+#4. db:migrate
+#5. make models, associations
+#6. fill out seed data
+#7. db:seed 
+#8. write extra special methods 
+#9. test in rake console
+#10. hit the bar
